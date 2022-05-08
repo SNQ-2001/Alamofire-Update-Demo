@@ -2,7 +2,7 @@
 //  Alamofire_Update_DemoApp.swift
 //  Alamofire-Update-Demo
 //
-//  Created by 宮本大新 on 2022/05/09.
+//  Created by TAISHIN MIYAMOTO on 2022/05/09.
 //
 
 import SwiftUI
